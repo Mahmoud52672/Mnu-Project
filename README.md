@@ -21,4 +21,3 @@ A simple Python system to manage and store laboratory assets in a CSV file.
 
 * 🎓 **Dr. Hanaa Zain Eldin**
 * 🛠️ **Eng. Alaa Taha El Maria**
-  ----
